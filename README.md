@@ -27,12 +27,17 @@ obter_dados_processados: Realiza o tratamento e limpeza de dados (ETL) do Excel 
 verificar_equilibrio e gerar_novo_arquivo: Geram as saídas (outputs) do sistema.
 
 # Menu de Opções
--> Opção 1 (Verificar Equilíbrio): Exibe no terminal o balanço organizado, as somas totais de cada grupo e se a equação fundamental foi satisfeita (Resultado = 0).
--> Opção 2 (Gerar Novo Arquivo): Cria o arquivo BaseAtualizada.xlsx contendo todas as contas classificadas e, nas linhas finais, um resumo com Total de Ativos, Total de Passivos e o status de equilíbrio.
--> Opção 3 (Sair): Encerra a aplicação.
+* Opção 1 (Verificar Equilíbrio): Exibe no terminal o balanço organizado, as somas totais de cada grupo e se a equação fundamental foi satisfeita (Resultado = 0).
+* Opção 2 (Gerar Novo Arquivo): Cria o arquivo BaseAtualizada.xlsx contendo todas as contas classificadas e, nas linhas finais, um resumo com Total de Ativos, Total de Passivos e o status de equilíbrio.
+* Opção 3 (Sair): Encerra a aplicação.
 
 # Imagens do programa em execução
-![1. Menu](./prints do projeto/1.menu.png).
-![2. Opção 1](./prints do projeto/2.opcao1.png).
-![3. Opção 2](./prints do projeto/2.opcao2.png).
+#### Menu Principal
+![Menu](./prints%20do%20projeto/1.menu.png)
+
+#### Execução do Balanço (Opção 1)
+![Balanço](./prints%20do%20projeto/2.opcao1.png)
+
+#### Arquivo Gerado (Opção 2)
+![Planilha](./prints%20do%20projeto/2.opcao2.png)
 
