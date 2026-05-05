@@ -39,5 +39,5 @@ verificar_equilibrio e gerar_novo_arquivo: Geram as saídas (outputs) do sistema
 ![Balanço](./prints%20do%20projeto/2.opcao1.png)
 
 #### Arquivo Gerado (Opção 2)
-![Planilha](./prints%20do%20projeto/2.opcao2.png)
+![Planilha](./prints%20do%20projeto/3.opcao2.png)
 
