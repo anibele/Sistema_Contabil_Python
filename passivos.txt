@@ -1,0 +1,10 @@
+Fornecedores Nacionais;
+Empréstimos Bancários;
+Salários e Encargos a Pagar;
+Impostos a Recolher;
+Dividendos a Pagar;
+Financiamento de Veículos;
+Empréstimos de Sócios;
+Capital Social;
+Fornecedor Internacional;
+Lucros Acumulados;

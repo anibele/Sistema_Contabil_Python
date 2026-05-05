@@ -1,0 +1,10 @@
+Caixa e Bancos;
+Aplicações Financeiras;
+Clientes a Receber;
+Estoque de Produtos;
+Cartões a Receber;
+Móveis e Utensílios;
+Máquinas e Equipamentos;
+Veículos;
+Softwares e Marcas;
+Imóveis;
