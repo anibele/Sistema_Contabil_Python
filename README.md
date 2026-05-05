@@ -10,7 +10,7 @@ Este projeto é uma aplicação em Python desenvolvida para automatizar a classi
 
 # Pré-requisitos
 Para executar este projeto, você precisará do Python instalado e do 'pandas', use:
-pip install pandas openpyxl
+- pip install pandas openpyxl
 
 # Estrutura de Arquivos
 Para que o programa funcione corretamente, os arquivos devem estar organizados da seguinte forma:
@@ -32,4 +32,7 @@ verificar_equilibrio e gerar_novo_arquivo: Geram as saídas (outputs) do sistema
 -> Opção 3 (Sair): Encerra a aplicação.
 
 # Imagens do programa em execução
+![1. Menu](./prints do projeto/1.menu.png).
+![2. Opção 1](./prints do projeto/2.opcao1.png).
+![3. Opção 2](./prints do projeto/2.opcao2.png).
 
